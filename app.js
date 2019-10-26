@@ -3,7 +3,10 @@
 //Each modules are private
 
 let budgetController = (() => {
-    //some codedaadsasdddda
+    //some 
+    function Q(){
+
+    }
     
 })();
 
